@@ -31,13 +31,13 @@ For more explanation about the rules, you can visit: <a href = "https://www.prem
 <h2>Cost vs Total Points</h2>
 <img width="1000" alt="image" src="https://github.com/ewaldo19/FPL-22-23-Data-Analysis/assets/57058557/ea7f5301-53f3-41a2-9359-c940119c26de">
 <br><br>
-<p align = "justify">The provided scatter plot illustrates the correlation between a player's price and their point contributions. Evidently, there is a discernible trend indicating that higher-priced players tend to yield more points. This is exemplified by the top four most expensive players—Erling Haaland, Harry Kane, Mohamed Salah, and Kevin De Bruyne—who consistently produce the highest point totals. 
+<p align = "justify">The provided scatter plot illustrates the correlation between a player's price and their point contributions. Evidently, there is a discernible trend indicating that higher-priced players tend to yield more points. This is exemplified by the top four most expensive players—Mohamed Salah, Erling Haaland, Kevin De Bruyne, and Harry Kane—who consistently produce the highest point totals.</p>
 
 <div align = "center">
   <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/52d9ffeb7c33457a99aa35627f1a0c56784f5945/data/Prem%20Most%20Points.png">
 </div>
 
-However, exceptions exist, as some players with relatively high prices fail to meet performance expectations. Notably, Richarlison (FWD), priced at 8.4, only accumulated a modest 54 points. Despite amassing a cumulative score of 101 points, Raheem Sterling's performance fell short of expectations given his price of 9.7, particularly in terms of anticipated attacking contributions. And last but not least, Antony, a fresh face in the Premier League, managed only 82 points, a figure that doesn't align with his 7.2 price tag, thereby not meeting the expectations set for his performance.
+<p align = "justify">However, exceptions exist, as some players with relatively high prices fail to meet performance expectations. Notably, Richarlison (FWD), priced at 8.4, only accumulated a modest 54 points. Despite amassing a cumulative score of 101 points, Raheem Sterling's performance fell short of expectations given his price of 9.7, particularly in terms of anticipated attacking contributions. And last but not least, Antony, a fresh face in the Premier League, managed only 82 points, a figure that doesn't align with his 7.2 price tag, thereby not meeting the expectations set for his performance.</p>
 
 <div align = "center">
   <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/52d9ffeb7c33457a99aa35627f1a0c56784f5945/data/Prem%20Flops.png">
