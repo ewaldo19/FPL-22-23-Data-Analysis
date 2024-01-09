@@ -62,3 +62,19 @@ The chart above showcases the Defenders with the highest value in the 2022/23 se
   <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/f5520016f2f39941774771b19f21fc543ff043a6/data/Valued%20Defenders.png">
 </div>
 
+<h3>Midfielders</h3>
+<img width="1000" alt="image" src="https://github.com/ewaldo19/FPL-22-23-Data-Analysis/assets/57058557/7315e007-8805-4c13-a844-b22f29770071">
+<p align = "justify">The above chart shows the top 10 most valued midfielders throughout the season. Arsenal's stellar season did not went unnotice since their midfielders occupy the top 3 spots. Xhaka's 7 goals this season is his most prolific season of his Arsenal career. No one predicted that the former Arsenal skipper could provide this many point contribution as he was not a goalscoring midfielder. Almiron's fiery start to the season brought FPL players to their knees as he scored 9 goals in his first 19 matches to the season. Unfortunately, he only ended up with 11 goals so he only added 2 more goals to his tally for the rest of the season.</p>
+
+<div align = "center">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/81434cd64fe8da208f3a720797d54c4551f4e9d4/data/Valued%20Midfielders.png">
+</div>
+
+<h3>Forwards</h3>
+<img width="761" alt="image" src="https://github.com/ewaldo19/FPL-22-23-Data-Analysis/assets/57058557/b0ddaa7a-f68d-43a6-8c41-6a77efb7c43d">
+<p align = "justify">The above graph depicts the forwards with the highest value in the 2022/2023 season. The striking duo from Brentford, Ivan Toney and Bryan Mbeumo, emerge as a formidable pair, showcasing their ability to provide significant attacking contributions. Given that approximately 78.2% of FPL players have Erling Haaland on their teams, these players serve as an ideal complement to partner with him.</p>
+
+<div align = "center">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/f312180b545149fb3a57e57843f2df00ed567159/data/Valued%20Forwards.png">
+</div>
+
