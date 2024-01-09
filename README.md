@@ -46,5 +46,5 @@ However, exceptions exist, as some players with relatively high prices fail to m
 Conversely, there are noteworthy budget-friendly selections that defy their low price points by delivering substantial point returns. My personal favorites include Eberechi Eze (MID, 5.7), Gabriel Martinelli (MID, 6.5), Pascal Groß (MID, 5.4), Ivan Toney (FWD, 7.1), and Ben White (DEF, 5). These players exemplify the potential for budget picks to outperform expectations in terms of point generation. </p>
 
 <div align = "center">
-  <img src = "["](https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/18890eb1e247ed452c1f2049e7d96a2e1bea24e1/data/Prem%20Budget%20Picks.png)https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/18890eb1e247ed452c1f2049e7d96a2e1bea24e1/data/Prem%20Budget%20Picks.png><alt = "Personal Favorites">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/18890eb1e247ed452c1f2049e7d96a2e1bea24e1/data/Prem%20Budget%20Picks.png)https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/18890eb1e247ed452c1f2049e7d96a2e1bea24e1/data/Prem%20Budget%20Picks.png"><alt = "Personal Favorites">
 </div>
