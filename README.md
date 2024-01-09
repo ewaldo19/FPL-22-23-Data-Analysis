@@ -33,11 +33,18 @@ For more explanation about the rules, you can visit: <a href = "https://www.prem
 <br><br>
 <p align = "justify">The provided scatter plot illustrates the correlation between a player's price and their point contributions. Evidently, there is a discernible trend indicating that higher-priced players tend to yield more points. This is exemplified by the top four most expensive players—Erling Haaland, Harry Kane, Mohamed Salah, and Kevin De Bruyne—who consistently produce the highest point totals. 
 
-![Group 21](https://github.com/ewaldo19/FPL-22-23-Data-Analysis/assets/57058557/2348a4c4-6eba-46f9-b95c-d59415543412)
+<div align = "center">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/52d9ffeb7c33457a99aa35627f1a0c56784f5945/data/Prem%20Most%20Points.png"><alt = "Prem Most Points">
+</div>
 
 However, exceptions exist, as some players with relatively high prices fail to meet performance expectations. Notably, Richarlison (FWD), priced at 8.4, only accumulated a modest 54 points. Despite amassing a cumulative score of 101 points, Raheem Sterling's performance fell short of expectations given his price of 9.7, particularly in terms of anticipated attacking contributions. And last but not least, Antony, a fresh face in the Premier League, managed only 82 points, a figure that doesn't align with his 7.2 price tag, thereby not meeting the expectations set for his performance.
 
-![Prem Flops](https://github.com/ewaldo19/FPL-22-23-Data-Analysis/assets/57058557/c6bc68b5-f63d-4a4e-aa71-82a7f5755d0b)
+<div align = "center">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/52d9ffeb7c33457a99aa35627f1a0c56784f5945/data/Prem%20Flops.png"><alt = "Prem Flops">
+</div>
 
-Conversely, there are noteworthy budget-friendly selections that defy their low price points by delivering substantial point returns. Notable examples include Eberechi Eze (MID, 5.7), Gabriel Martinelli (MID, 6.5), Ivan Toney (FWD, 7.1), and Ben White (DEF, 5). These players exemplify the potential for budget picks to outperform expectations in terms of point generation. </p>
+Conversely, there are noteworthy budget-friendly selections that defy their low price points by delivering substantial point returns. My personal favorites include Eberechi Eze (MID, 5.7), Gabriel Martinelli (MID, 6.5), Pascal Groß (MID, 5.4), Ivan Toney (FWD, 7.1), and Ben White (DEF, 5). These players exemplify the potential for budget picks to outperform expectations in terms of point generation. </p>
 
+<div align = "center">
+  <img src = "["](https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/18890eb1e247ed452c1f2049e7d96a2e1bea24e1/data/Prem%20Budget%20Picks.png)https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/18890eb1e247ed452c1f2049e7d96a2e1bea24e1/data/Prem%20Budget%20Picks.png><alt = "Personal Favorites">
+</div>
