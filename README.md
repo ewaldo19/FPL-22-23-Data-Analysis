@@ -99,5 +99,5 @@ The chart above showcases the Defenders with the highest value in the 2022/23 se
 
 <h3>Goalkeepers</h3>
 <div align = "center">
-  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/1a6a085dbee7152aab5c02c68b4e9ae5483d8589/data/Defenders.png">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/1a6a085dbee7152aab5c02c68b4e9ae5483d8589/data/Goalkeepers.png">
 </div>
