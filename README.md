@@ -78,3 +78,26 @@ The chart above showcases the Defenders with the highest value in the 2022/23 se
   <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/f312180b545149fb3a57e57843f2df00ed567159/data/Valued%20Forwards.png">
 </div>
 
+<h2>Points per Game by Position</h2>
+<img width="600" alt="image" src="https://github.com/ewaldo19/FPL-22-23-Data-Analysis/assets/57058557/997bc44d-5870-4195-9438-5f18d8455b5f">
+<p align = "justify">The pie chart above shows which players has the most points per game contribution by position. As predicted, Erling Haaland leads the way with 7.8 ppg after a record breaking tally of 36 goals. Salah leads the way for the midfielders as he has his usual impressive season unlike his team, Liverpool, who failed to finish in the top 4. Kieran Tripper also has a stellar season as he contributed with 7 assists and 14 clean sheets, which lead to a top 4 finish for Newcastle United</p>
+
+<h3>Forwards</h3>
+<div align = "center">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/1a6a085dbee7152aab5c02c68b4e9ae5483d8589/data/Forwards.png">
+</div>
+
+<h3>Midfielders</h3>
+<div align = "center">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/1a6a085dbee7152aab5c02c68b4e9ae5483d8589/data/Midfielders.png">
+</div>
+
+<h3>Defenders</h3>
+<div align = "center">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/1a6a085dbee7152aab5c02c68b4e9ae5483d8589/data/Defenders.png">
+</div>
+
+<h3>Goalkeepers</h3>
+<div align = "center">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/1a6a085dbee7152aab5c02c68b4e9ae5483d8589/data/Defenders.png">
+</div>
