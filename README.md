@@ -34,17 +34,31 @@ For more explanation about the rules, you can visit: <a href = "https://www.prem
 <p align = "justify">The provided scatter plot illustrates the correlation between a player's price and their point contributions. Evidently, there is a discernible trend indicating that higher-priced players tend to yield more points. This is exemplified by the top four most expensive players—Erling Haaland, Harry Kane, Mohamed Salah, and Kevin De Bruyne—who consistently produce the highest point totals. 
 
 <div align = "center">
-  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/52d9ffeb7c33457a99aa35627f1a0c56784f5945/data/Prem%20Most%20Points.png"><alt = "Prem Most Points">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/52d9ffeb7c33457a99aa35627f1a0c56784f5945/data/Prem%20Most%20Points.png">
 </div>
 
 However, exceptions exist, as some players with relatively high prices fail to meet performance expectations. Notably, Richarlison (FWD), priced at 8.4, only accumulated a modest 54 points. Despite amassing a cumulative score of 101 points, Raheem Sterling's performance fell short of expectations given his price of 9.7, particularly in terms of anticipated attacking contributions. And last but not least, Antony, a fresh face in the Premier League, managed only 82 points, a figure that doesn't align with his 7.2 price tag, thereby not meeting the expectations set for his performance.
 
 <div align = "center">
-  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/52d9ffeb7c33457a99aa35627f1a0c56784f5945/data/Prem%20Flops.png"><alt = "Prem Flops">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/52d9ffeb7c33457a99aa35627f1a0c56784f5945/data/Prem%20Flops.png">
 </div>
 
-Conversely, there are noteworthy budget-friendly selections that defy their low price points by delivering substantial point returns. My personal favorites include Eberechi Eze (MID, 5.7), Gabriel Martinelli (MID, 6.5), Pascal Groß (MID, 5.4), Ivan Toney (FWD, 7.1), and Ben White (DEF, 5). These players exemplify the potential for budget picks to outperform expectations in terms of point generation. </p>
+<h2>Most Valued Players</h2>
+<h3>Goalkeepers</h3>
+<img width="1000" alt="image" src="https://github.com/ewaldo19/FPL-22-23-Data-Analysis/assets/57058557/3dbb7689-b42e-4ead-817c-adce839d2b16">
+<br><br>
+<p align = "justify">The above chart shows the most valued goalkeepers during the 2022/2023 season. This shows that the most expensive goalkeepers are the best choice because usually the more expensive goalkeepers, the better the team is. For example, Ederson Moraes which is valued at 5.4 is not present in the above chart because Manchester City have such a brilliant defence and they do not concede a lot shots.</p>
 
 <div align = "center">
-  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/18890eb1e247ed452c1f2049e7d96a2e1bea24e1/data/Prem%20Budget%20Picks.png"><alt = "Personal Favorites">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/cc166628321e4b53122127290b88cb064338df2d/data/Valued%20Goalkeepers.png">
 </div>
+
+<h3>Defenders</h3>
+<img width="1000" alt="image" src="https://github.com/ewaldo19/FPL-22-23-Data-Analysis/assets/57058557/a047d5e0-f912-4380-9637-2862e0621124">
+<p align = "justify">
+The chart above showcases the Defenders with the highest value in the 2022/23 season. Kieran Trippier, contributing 11 assists for Newcastle United, demonstrates his significance for FPL players by meeting expectations. A notable inclusion in the chart is Castagne, despite Leicester's relegation following a disappointing season. Priced at just 4.3, he presents excellent value and stands out as an economical choice for FPL enthusiasts.</p>
+
+<div align = "center">
+  <img src = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis/blob/f5520016f2f39941774771b19f21fc543ff043a6/data/Valued%20Defenders.png">
+</div>
+
